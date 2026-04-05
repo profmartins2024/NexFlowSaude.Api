@@ -1,0 +1,4 @@
+@NexFlowSaude.Api_HostAddress = http://localhost:5098
+
+GET {{NexFlowSaude.Api_HostAddress}}/health
+Accept: application/json
